@@ -1,2 +1,2 @@
 # ResizeBitmaps
-This program will simply resize a bitmap image file by an integer factor; it takes 3 inputs from the user: "n"(integer factor), "infile", "outfile".
+This is my program created for pset3 cs50. As described, it will simply resize a bitmap image file by an integer factor; it takes 3 inputs from the user: "n"(integer factor), "infile", "outfile". Unfortunately, it is limited to resizing by an integer, it can not take a float input nor resizing an image to be smaller. I will update this program later to be able to handle those scenarios, as required by "more".
